@@ -1,0 +1,29 @@
+body {
+  font-family: 'IBM Plex Serif', serif;
+  font-size: 16px;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+header {
+  padding: 20px 0px;
+  text-align: center;
+}
+
+input {
+  border-radius: 2px;
+  padding: 5px;
+  border: 1px black solid;
+}
+
+button {
+  border-radius: 2px;
+  padding: 5px 10px;
+  border: 1px black solid;
+}
+
+li {
+  margin: 5px 0px;
+}
